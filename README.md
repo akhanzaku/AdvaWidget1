@@ -8,6 +8,6 @@ Class : XIIRPL3 - 08
 
 School : SMK Telkom Malang
 
-![Image of Null](https://github.com/akhanzaku/AdvaWidget1/master/AdvaWid1.png)
-![Image of Null](https://github.com/akhanzaku/AdvaWidget1/master/AdvaWid1b.png)
-![Image of Null](https://github.com/akhanzaku/AdvaWidget1/master/AdvaWid1c.png)
+![Image of Null](https://github.com/akhanzaku/AdvaWidget1/blob/master/AdvaWid1.png)
+![Image of Null](https://github.com/akhanzaku/AdvaWidget1/blob/master/AdvaWid1b.png)
+![Image of Null](https://github.com/akhanzaku/AdvaWidget1/blob/master/AdvaWid1c.png)
